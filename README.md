@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm M. Alif Ur Rahman</h1>
 <h3 align="center">A passionate front-end developer from Bangladesh. Worked as a Jr. Software Engineer at Sheraspace. Currently, working as a front-end developer at LegoIO.</h3>
 
-- 💬 Ask me about **JavaScript, React, Python, Flask**
+- 💬 Ask me about **JavaScript, React, Vue, Python, Flask & Node Js**
 
 - 📫 How to reach me **alifrahman363@gmail.com**
 
