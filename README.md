@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm M. Alif Ur Rahman</h1>
-<h3 align="center">A passionate front-end developer from Bangladesh. Worked as a Jr. Software Engineer at Sheraspace. Currently, working as a front-end developer at LegoIO and back-end developer at AFBL</h3>
+<h3 align="center">A passionate front-end developer from Bangladesh. Currently, working as a back-end developer at AFBL. Also worked as a Jr. Software Engineer at Sheraspace and as a front-end developer at LegoIO</h3>
 
 - 💬 Ask me about **JavaScript, React.js, Vue.js, Nest.js, Python, Flask, Node.js, TypeORM & MongoDB** - 📫 How to reach me **alifrahman363@gmail.com** - ⚡ Fun fact **I am a try-hard.**
 
